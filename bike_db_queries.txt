@@ -1,0 +1,8 @@
+--Queries regarding to database--
+
+1-What is the need of field 'Multiple Registration' given in Table Bike-owners.We can simply count the number of registration by a perticular owner from table 'Bikes'.
+
+2-'Typed-in unique bike-numbers and locations' in the Scouts is another table or  just a field.Furthermore,if its only a field in Scouts table how the data for this field will be saved.
+
+3-Same question is there for History in Scouts.
+
